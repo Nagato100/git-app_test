@@ -1,4 +1,4 @@
 class TestsController < ApplicationController
-  def inddex
+  def index
   end
 end
